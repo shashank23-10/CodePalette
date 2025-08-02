@@ -18,7 +18,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/ErsatzHitman/codetoimg_
+    git clone https://github.com/shashank23-10/CodePalette.git
     ```
    
 2. **Install Dependencies**:
