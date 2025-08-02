@@ -134,7 +134,7 @@ function CodeEditor({
 
           <div
             className="icon flex justify-center items-center p-1 bg-black
-               bg-opacity-30 rounded-sm"
+                bg-opacity-30 rounded-sm"
           >
             <img src={icon} className="w-[33px]" alt="" />
           </div>
